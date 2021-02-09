@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a Capstone Project: Table UV Robot
   - Project Website: [https://tableuv.github.io/]
 - 🌱 I’m currently learning ROS and autonomous vehicle via online courses
-- 👯 I’m interesetd to learn sensor fusion and Autoware (OSS autonomous vehicle)
+- :thinking: I’m interesetd to learn sensor fusion and Autoware (OSS autonomous vehicle)
 - 📫 How to reach me: 
   - :email:  tmurata@uwaterloo.ca 
   - :telephone_receiver: 226-899-3876

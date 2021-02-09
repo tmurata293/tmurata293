@@ -4,7 +4,7 @@
 **tmurata293/tmurata293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Tsugumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmurata293)](https://github.com/anuraghazra/github-readme-stats)
 
-## 
+## I'm a 4th year Mechatronics Engineering Student at University of Waterloo 
 
 - 🔭 I’m currently working on a Capstone Project: Table UV Robot Project Website: [https://tableuv.github.io/]
 - 🌱 I’m currently learning ROS and autonomous vehicle via online courses

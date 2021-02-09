@@ -1,12 +1,14 @@
 ### Hi there , I'm Tsugumi Murata 👋
 
-
-
-## I'm a 4th year Mechatronics Engineering Student at University of Waterloo
+## I'm a 4th year student at University of Waterloo, candidate of B.A.Sc in Mechatronics Engineering + AI option
 
 - 🔭 I’m currently working on a Capstone Project: Table UV Robot
-  - Project Website: [https://tableuv.github.io/]
-- 🌱 I’m currently learning ROS and autonomous vehicle via online courses
+  - [Project Website](https://tableuv.github.io/)
+  - My role in the project:
+    - Electrical design of the robot
+    - Hardware bringup / bench-test 
+    - Firmware development 
+- 🌱 I’m currently learning ROS and autonomous vehicle via online courses 
 - :thinking: I’m interesetd in learning sensor fusion and Autoware (OSS autonomous vehicle)
 - 📫 How to reach me: 
   - :email:  tmurata@uwaterloo.ca 

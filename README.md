@@ -1,7 +1,5 @@
 ### Hi there , I'm Tsugumi Murata 👋
 
-<!--
-**tmurata293/tmurata293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Tsugumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmurata293)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a 4th year Mechatronics Engineering Student at University of Waterloo
@@ -12,6 +10,5 @@
 - 📫 How to reach me: 
   - email:  tmurata@uwaterloo.ca 
   - phone:  226-899-3876
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmurata)](https://github.com/anuraghazra/github-readme-stats)

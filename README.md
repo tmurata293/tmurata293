@@ -12,5 +12,5 @@
   - :email:  tmurata@uwaterloo.ca 
   - :telephone_receiver: 226-899-3876
 
-[![Tsugumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmurata293)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmurata293)](https://github.com/anuraghazra/github-readme-stats)
+[![Tsugumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmurata293&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmurata293&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
